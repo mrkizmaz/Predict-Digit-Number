@@ -11,15 +11,15 @@ APPLICATION STEPS
 
 <h3 align="center">Related Pictures</h3>
 <p align="center">
-<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_1.png" width="200" height="200">
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_1.png" width="250" height="300">
 </br> <i> First view of the app. </i> </p>
 
 <p align="center">
-<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_2.png" width="200" height="200">
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_2.png" width="250" height="300">
 </br> <i> The number 2 was written and guessed correctly. </i> </p>
 
 <p align="center">
-<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_3.png" width="200" height="200">
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_3.png" width="250" height="300">
 </br> <i> The number 5 was written and guessed correctly. </i> </p>
 
 
