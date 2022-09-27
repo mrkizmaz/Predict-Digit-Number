@@ -9,11 +9,18 @@ APPLICATION STEPS
 * [MNIST Trainer][mnist_trainer]: Datasets in pickle format were fitted with `sklearn` in this file and the classification report was tested. Then the model is saved in pickle format for use in the interface.
 * [Interface][design]: In this file, the application interface was designed with `PyQt5` by integrating the model saved.
 
-<h3 align="center">Releated Pictures</h3>
+<h3 align="center">Related Pictures</h3>
 <p align="center">
-<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_1.png" width="100" height="100"> 
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_1.png" width="200" height="200">
+</br> <i> First view of the app. </i> </p>
 
+<p align="center">
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_2.png" width="200" height="200">
+</br> <i> The number 2 was written and guessed correctly. </i> </p>
 
+<p align="center">
+<img src="https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/images/pdn_3.png" width="200" height="200">
+</br> <i> The number 5 was written and guessed correctly. </i> </p>
 
 
 
@@ -23,4 +30,3 @@ APPLICATION STEPS
 [mnist_extractor]: https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/mnist_extractor.py
 [mnist_trainer]: https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/mnist_trainer.py
 [design]: https://github.com/mrkizmaz/Predict-Digit-Number/blob/master/interface.py
-
